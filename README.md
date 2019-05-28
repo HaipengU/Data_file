@@ -1,1 +1,1 @@
-A repo to storage example data.
+A repo for the example data.
